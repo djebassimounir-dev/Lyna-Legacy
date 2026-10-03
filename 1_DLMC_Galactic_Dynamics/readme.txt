@@ -1,6 +1,6 @@
 # DLMC Perturbative Analysis - Galactic Rotation Curves (SPARC)
 **Mounir Djebassi** | **ORCID:** 0009-0009-6871-7693  
-**Affiliation:** Independent Research Association (Bucharest)
+**Affiliation:** Independent Scientist Massachusetts Institute of Technology: Cambridge, Massachusetts, US
 
 ## Project Overview
 This repository contains the numerical implementation of the **Dark Low-Mass Component (DLMC)** framework. It provides a perturbative analysis of the scalar field $\phi$ to explain galactic rotation curves without the need for traditional dark matter halos or MOND-specific modifications.
