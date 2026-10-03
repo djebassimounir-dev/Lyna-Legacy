@@ -8,118 +8,99 @@ This repository gathers the complete computational frameworks, notebook simulati
 
 ## 🌌 1. DLMC v16.4: Torsional Vacuum Dynamics & Galactic Rotation Curves
 * **Zenodo DOI:** 10.5281/ZENODO.19355993 | **Date:** March 31, 2026
-* *Abstract:* A computational framework applied to galaxy rotation curves (SPARC dataset) using a torsion-based vacuum formulation.
-* **Associated Repository Files:** `dlmc-fram.ipynb`, `dlmc-fram.py`, `dlmc-fram.pdf`, `dlmc-fran-html.html`
-
----
+* **Abstract:** A computational framework applied to galaxy rotation curves (SPARC dataset) using a torsion-based vacuum formulation.
+* **Associated Repository Files:** dlmc-fram.ipynb, dlmc-fram.py, dlmc-fram.pdf, dlmc-fran-html.html
 
 ## ☀️ 2. Project Solar Morveu v1.1.0: Unified Torsional Fluid Dynamics Framework
 * **Zenodo DOI:** 10.5281/ZENODO.19080481 | **Date:** May 28, 2026
-* *Abstract:* A computational model of solar-terrestrial interactions based on DLMC-MAG and Kuramoto-Sivashinsky dynamics.
-* **Associated Repository Files:** `Solar-Morveu_v1.0.3_Mise_a_jour.zip`, `Solar-Morveu_v1.0.2_COMPLET.ipynb`, `script.solar-morveu-v1.0.2.py`, `pdf-morveu-solar.pdf`
-
----
+* **Abstract:** A computational model of solar-terrestrial interactions based on DLMC-MAG and Kuramoto-Sivashinsky dynamics.
+* **Associated Repository Files:** Solar-Morveu_v1.0.3_Mise_a_jour.zip, Solar-Morveu_v1.0.2_COMPLET.ipynb, script.solar-morveu-v1.0.2.py, pdf-morveu-solar.pdf
 
 ## 🧠 3. VacuumCode: A Discrete Quantum Vacuum Substrate for Galactic Dynamics
 * **Zenodo DOI:** 10.5281/ZENODO.19508456 | **Date:** April 11, 2026
-* *Abstract:* A unified computational framework describing galactic rotation curves as emergent properties of a structured quantum vacuum substrate without dark matter.
-* **Associated Repository Files:** `vacuumcode.zip`
-
----
+* **Abstract:** A unified computational framework describing galactic rotation curves as emergent properties of a structured quantum vacuum substrate without dark matter.
+* **Associated Repository Files:** vacuumcode.zip
 
 ## 🌀 4. The Lyna Project, FluxCore Frameworks & Unified Torsion Matrix Solutions
 This section aggregates the multi-stage historical development of the core Torsional Fluid Dynamics matrix solutions validated on the 175 SPARC galaxies.
-
-* **Project G.A.I.A. Φ (v14.0.2):** Zenodo DOI: `10.5281/ZENODO.19269184` (March 28, 2026)
-* **{LumenCode} (v14.0.2):** Zenodo DOI: `10.5281/ZENODO.19293393` (March 28, 2026)
-* **DLMC FluxCore & Projet LYNA Framework (v5):** Zenodo DOI: `10.5281/ZENODO.19121325` & `10.5281/ZENODO.19121689` (March 20, 2026)
-* **DLMC-Cascade Framework v13:** Zenodo DOI: `10.5281/ZENODO.19170647` (March 22, 2026)
-
----
+* **Project G.A.I.A. Φ (v14.0.2):** Zenodo DOI: 10.5281/ZENODO.19269184 (March 28, 2026)
+* **{LumenCode} (v14.0.2):** Zenodo DOI: 10.5281/ZENODO.19293393 (March 28, 2026)
+* **DLMC FluxCore & Projet LYNA Framework (v5):** Zenodo DOI: 10.5281/ZENODO.19121325 & 10.5281/ZENODO.19121689 (March 20, 2026)
+* **DLMC-Cascade Framework v13:** Zenodo DOI: 10.5281/ZENODO.19170647 (March 22, 2026)
 
 ## ⚙️ 5. Specialized Physical Simulation Sub-Modules
-* **EDPZ v3:** Gross-Pitaevskii + Casimir Dynamique avec vortex quantique | Zenodo DOI: `10.5281/ZENODO.19081019` (March 18, 2026)
-* **The Solar Morveu (Paper III):** Zenodo DOI: `10.5281/ZENODO.19041573` (March 16, 2026)
-* **FluxCore:** Grandfather Paradox Resolution — A Dynamical Framework | Zenodo DOI: `10.5281/ZENODO.18999740` (March 13, 2026)
-* **MORPHEUS:** A Universal Reaction-Diffusion Framework | Zenodo DOI: `10.5281/ZENODO.18998068` (March 13, 2026)
-
----
+* **EDPZ v3:** Gross-Pitaevskii + Casimir Dynamique avec vortex quantique | Zenodo DOI: 10.5281/ZENODO.19081019 (March 18, 2026)
+* **The Solar Morveu (Paper III):** Zenodo DOI: 10.5281/ZENODO.19041573 (March 16, 2026)
+* **FluxCore:** Grandfather Paradox Resolution — A Dynamical Framework | Zenodo DOI: 10.5281/ZENODO.18999740 (March 13, 2026)
+* **MORPHEUS:** A Universal Reaction-Diffusion Framework | Zenodo DOI: 10.5281/ZENODO.18998068 (March 13, 2026)
 
 ## 🌊 12. Nonlinear Hydrodynamic Regularization Framework
 * **Zenodo DOI:** 10.5281/zenodo.20530151 | **Date:** June 3, 2026
-* *Abstract:* An exploratory framework introducing a geometric stabilization operator to moderate nonlinear amplification in incompressible hydrodynamic equations.
-* **Associated Repository Files:** `12_Project_Hydrodynamics/nonlinear_hydrodynamic_systems.zip`
-
----
+* **Abstract:** An exploratory framework introducing a geometric stabilization operator to moderate nonlinear amplification in incompressible hydrodynamic equations.
+* **Associated Repository Files:** 12_Project_Hydrodynamics/nonlinear_hydrodynamic_systems.zip
 
 ## 🛡️ 13. Project Lynacore: Casimir-Regularized Non-Linear Regime
 * **Zenodo DOI:** 10.5281/zenodo.20764538 | **Date:** June 19, 2026
-* *Abstract:* Formalizes the structural integration of the Lynacore system, stabilizing the non-linear regime via a geometric Casimir-type regularization operator.
-* **Associated Repository Files:** `lynacore/CASIMIR-REGULARIZED NON-LINEAR REGIME.zip`
-
----
+* **Abstract:** Formalizes the structural integration of the Lynacore system, stabilizing the non-linear regime via a geometric Casimir-type regularization operator.
+* **Associated Repository Files:** lynacore/CASIMIR-REGULARIZED NON-LINEAR REGIME.zip
 
 ## 🌌 14. AURA-KAMAR: An Exploratory Texture-Based Classification Pipeline for SPARC Galaxy Profiles
 * **Zenodo DOI:** 10.5281/zenodo.22086061 | **Date:** August 24, 2026
-* *Abstract:* An exploratory texture-based classification pipeline applied to galaxy rotation curves from the SPARC database, featuring t-SNE analysis and family-based kinematic modeling for full scientific reproducibility.
-* **Associated Repository Files:** `14_Project_Aura_Kamar/AURA-KAMAR.zip` (Complete computational package release)
-
----
+* **Abstract:** An exploratory texture-based classification pipeline applied to galaxy rotation curves from the SPARC database, featuring t-SNE analysis and family-based kinematic modeling for full scientific reproducibility.
+* **Associated Repository Files:** 14_Project_Aura_Kamar/AURA-KAMAR.zip (Complete computational package release)
 
 ## ⚡ 15. Hidden Force: Universal Scaling Law in a Nonlinear Dissipative Scalar Field
 * **Zenodo DOI:** 10.5281/zenodo.22094172 | **Date:** August 25, 2026
-* *Abstract:* Establishes a universal scaling law within a nonlinear dissipative scalar field, integrated into the unified torsional fluid dynamics ecosystem.
-* **Associated Repository Files:** `15_Project_Hidden_Force/hydden force.zip`
-
----
+* **Abstract:** Establishes a universal scaling law within a nonlinear dissipative scalar field, integrated into the unified torsional fluid dynamics ecosystem.
+* **Associated Repository Files:** 15_Project_Hidden_Force/hydden force.zip
 
 ## ⏳ 16. The Paradoxe: A Dynamic Local-Multiple Coherence Framework for Resolving Physical, Relativistic, and Temporal Paradoxes
 * **Zenodo DOI:** 10.5281/zenodo.22095094 | **Date:** August 25, 2026
-* *Abstract:* Introduces the Dynamic Local-Multiple Coherence (DLMC) framework, a multi-scale phenomenological model designed to formalize and resolve classic physical, relativistic, temporal, and consciousness-related paradoxes through non-linear numerical simulations.
-* **Associated Repository Files:** `16_The_Paradoxe/the paradoxe.zip`
-
----
+* **Abstract:** Introduces the Dynamic Local-Multiple Coherence (DLMC) framework, a multi-scale phenomenological model designed to formalize and resolve classic physical, relativistic, temporal, and consciousness-related paradoxes through non-linear numerical simulations.
+* **Associated Repository Files:** 16_The_Paradoxe/the paradoxe.zip
 
 ## 🌀 17. Lyna-Torsion: An Exploratory Heuristic Coupling Between Geometric Torsion, the Fine-Structure Constant, and Hydrodynamic Dissipation in Turbulent Stellar Media
 * **Zenodo DOI:** 10.5281/zenodo.22118564 | **Date:** August 27, 2026
-* *Abstract:* Introduces the Lyna-Torsion ($\Psi_L$) construction: a heuristic, non-linear recurrence relation coupling a geometric torsion path integral, the fine-structure constant ($\alpha$), and a bounded dissipation term, evaluated on a sample of Gaia astrometric sources with full parameter sensitivity analysis.
-* **Associated Repository Files:** `17_Lyna-Torsion/lyna-torsion.zip`, `17_Lyna-Torsion/Lyna-Legacy-Bundle.zip` *(Includes main preprint PDF and revised reserve notes analyzing shear-thickening regularization)*
+* **Abstract:** Introduces the Lyna-Torsion (Psi_L) construction: a heuristic, non-linear recurrence relation coupling a geometric torsion path integral, the fine-structure constant (alpha), and a bounded dissipation term, evaluated on a sample of Gaia astrometric sources with full parameter sensitivity analysis.
+* **Associated Repository Files:** 17_Lyna-Torsion/lyna-torsion.zip, 17_Lyna-Torsion/Lyna-Legacy-Bundle.zip (Includes main preprint PDF and revised reserve notes analyzing shear-thickening regularization)
+
+## 🌌 18. UOEE-KAMAR: Optimized Analysis of SPARC Galaxy Rotation Curves
+* **Zenodo DOI:** 10.5281/zenodo.23120927 | **Date:** October 3, 2026
+* **Abstract:** Introduces the UOEE-KAMAR framework, an enhanced computational and analytical approach designed to model and investigate galaxy rotation curves within the standard SPARC database.
+* **Associated Repository Files:** 18_Project_UOEE_KAMAR/ (Complete computational package release including manuscript, Jupyter notebook, Python script, and reproducibility archive)
 
 ---
 
-🌌 18. UOEE-KAMAR: Optimized Analysis of SPARC Galaxy Rotation Curves
-Zenodo DOI: 10.5281/zenodo.23120927 | Date: October 3, 2026
+## 🛠 Technical Overview
+* **Language:** Python, Jupyter Notebooks, HTML/LaTeX
+* **Status:** Published research ecosystem
+* **Archiving:** GitHub + Zenodo integration
+* **License:** MIT / CC-BY-4.0
 
-Abstract: Introduces the UOEE-KAMAR framework, an enhanced computational and analytical approach designed to model and investigate galaxy rotation curves within the standard SPARC database.
+---
 
-Associated Repository Files: 18_Project_UOEE_KAMAR/ (Complete computational package release including manuscript, Jupyter notebook, Python script, and reproducibility archive)
+## 📊 Master Ecosystem DOIs & Verification Badges
 
-🛠 Technical Overview
-Language: Python, Jupyter Notebooks, HTML/LaTeX
+| Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
+| :--- | :--- | :--- |
+| UOEE-KAMAR Framework | 10.5281/zenodo.23120927 | [🔗 View on Zenodo](https://doi.org) |
+| Lyna-Torsion Framework | 10.5281/zenodo.22118564 | [🔗 View on Zenodo](https://doi.org) |
+| The Paradoxe Framework | 10.5281/zenodo.22095094 | [🔗 View on Zenodo](https://doi.org) |
+| Hidden Force Field | 10.5281/zenodo.22094172 | [🔗 View on Zenodo](https://doi.org) |
+| AURA-KAMAR Pipeline | 10.5281/zenodo.22086061 | [🔗 View on Zenodo](https://doi.org) |
+| Lynacore (v1.5.0) | 10.5281/zenodo.20764538 | [🔗 View on Zenodo](https://doi.org) |
+| Nonlinear Hydrodynamics | 10.5281/zenodo.20530151 | [🔗 View on Zenodo](https://doi.org) |
+| VacuumCode Substrate | 10.5281/zenodo.19508456 | [🔗 View on Zenodo](https://doi.org) |
+| DLMC Vacuum v16.4 | 10.5281/zenodo.19355993 | [🔗 View on Zenodo](https://doi.org) |
+| LumenCode Solution | 10.5281/zenodo.19293393 | [🔗 View on Zenodo](https://doi.org) |
+| Project G.A.I.A. Φ | 10.5281/zenodo.19269184 | [🔗 View on Zenodo](https://doi.org) |
+| DLMC-Cascade v13 | 10.5281/zenodo.19170647 | [🔗 View on Zenodo](https://doi.org) |
+| DLMC FluxCore (v5) | 10.5281/zenodo.19121325 | [🔗 View on Zenodo](https://doi.org) |
+| EDPZ v3 (Superfluid) | 10.5281/zenodo.19081019 | [🔗 View on Zenodo](https://doi.org) |
+| Solar Morveu Framework | 10.5281/zenodo.19080481 | [🔗 View on Zenodo](https://doi.org) |
+| MORPHEUS v1.0 | 10.5281/zenodo.18998068 | [🔗 View on Zenodo](https://doi.org) |
 
-Status: Published research ecosystem
+---
 
-Archiving: GitHub + Zenodo integration
-
-License: MIT / CC-BY-4.0
-
-📊 Master Ecosystem DOIs & Verification Badges
-Computational Module	Registered Digital Object Identifier (DOI)	Official Verification Link
-UOEE-KAMAR Framework	10.5281/zenodo.23120927	🔗 View on Zenodo
-Lyna-Torsion Framework	10.5281/zenodo.22118564	🔗 View on Zenodo
-The Paradoxe Framework	10.5281/zenodo.22095094	🔗 View on Zenodo
-Hidden Force Field	10.5281/zenodo.22094172	🔗 View on Zenodo
-AURA-KAMAR Pipeline	10.5281/zenodo.22086061	🔗 View on Zenodo
-Lynacore (v1.5.0)	10.5281/zenodo.20764538	🔗 View on Zenodo
-Nonlinear Hydrodynamics	10.5281/zenodo.20530151	🔗 View on Zenodo
-VacuumCode Substrate	10.5281/zenodo.19508456	🔗 View on Zenodo
-DLMC Vacuum v16.4	10.5281/zenodo.19355993	🔗 View on Zenodo
-LumenCode Solution	10.5281/zenodo.19293393	🔗 View on Zenodo
-Project G.A.I.A. Φ	10.5281/zenodo.19269184	🔗 View on Zenodo
-DLMC-Cascade v13	10.5281/zenodo.19170647	🔗 View on Zenodo
-DLMC FluxCore (v5)	10.5281/zenodo.19121325	🔗 View on Zenodo
-EDPZ v3 (Superfluid)	10.5281/zenodo.19081019	🔗 View on Zenodo
-Solar Morveu Framework	10.5281/zenodo.19080481	🔗 View on Zenodo
-MORPHEUS v1.0	10.5281/zenodo.18998068	🔗 View on Zenodo
-🎓 Master Ecosystem Citation: Djebassi, M. (2026). Unified torsional fluid dynamics ecosystem. Zenodo. DOI: 10.5281/zenodo.19508893
-
+## 🎓 Master Ecosystem Citation
+Djebassi, M. (2026). Unified torsional fluid dynamics ecosystem. Zenodo. DOI: 10.5281/zenodo.19508893
