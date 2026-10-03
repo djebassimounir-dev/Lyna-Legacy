@@ -87,33 +87,39 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 ---
 
-## 🛠 Technical Overview
-* **Language:** Python, Jupyter Notebooks, HTML/LaTeX
-* **Status:** Published research ecosystem
-* **Archiving:** GitHub + Zenodo integration
-* **License:** MIT / CC-BY-4.0
+🌌 18. UOEE-KAMAR: Optimized Analysis of SPARC Galaxy Rotation Curves
+Zenodo DOI: 10.5281/zenodo.23120927 | Date: October 3, 2026
 
----
+Abstract: Introduces the UOEE-KAMAR framework, an enhanced computational and analytical approach designed to model and investigate galaxy rotation curves within the standard SPARC database.
 
-## 📊 Master Ecosystem DOIs & Verification Badges
+Associated Repository Files: 18_Project_UOEE_KAMAR/ (Complete computational package release including manuscript, Jupyter notebook, Python script, and reproducibility archive)
 
-| Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
-| :--- | :--- | :--- |
-| **Lyna-Torsion Framework** | `10.5281/zenodo.22118564` | [🔗 View on Zenodo](https://zenodo.org/records/22118564) |
-| **The Paradoxe Framework** | `10.5281/zenodo.22095094` | [🔗 View on Zenodo](https://zenodo.org/records/22095094) |
-| **Hidden Force Field** | `10.5281/zenodo.22094172` | [🔗 View on Zenodo](https://zenodo.org/records/22094172) |
-| **AURA-KAMAR Pipeline** | `10.5281/zenodo.22086061` | [🔗 View on Zenodo](https://zenodo.org/records/22086061) |
-| **Lynacore (v1.5.0)** | `10.5281/zenodo.20764538` | [🔗 View on Zenodo](https://zenodo.org/records/20764538) |
-| **Nonlinear Hydrodynamics** | `10.5281/zenodo.20530151` | [🔗 View on Zenodo](https://zenodo.org/records/20530151) |
-| **VacuumCode Substrate** | `10.5281/zenodo.19508456` | [🔗 View on Zenodo](https://zenodo.org/records/19508456) |
-| **DLMC Vacuum v16.4** | `10.5281/zenodo.19355993` | [🔗 View on Zenodo](https://zenodo.org/records/19355993) |
-| **LumenCode Solution** | `10.5281/zenodo.19293393` | [🔗 View on Zenodo](https://zenodo.org/records/19293393) |
-| **Project G.A.I.A. Φ** | `10.5281/zenodo.19269184` | [🔗 View on Zenodo](https://zenodo.org/records/19269184) |
-| **DLMC-Cascade v13** | `10.5281/zenodo.19170647` | [🔗 View on Zenodo](https://zenodo.org/records/19170647) |
-| **DLMC FluxCore (v5)** | `10.5281/zenodo.19121325` | [🔗 View on Zenodo](https://zenodo.org/records/19121325) |
-| **EDPZ v3 (Superfluid)** | `10.5281/zenodo.19081019` | [🔗 View on Zenodo](https://zenodo.org/records/19081019) |
-| **Solar Morveu Framework** | `10.5281/zenodo.19080481` | [🔗 View on Zenodo](https://zenodo.org/records/19080481) |
-| **MORPHEUS v1.0** | `10.5281/zenodo.18998068` | [🔗 View on Zenodo](https://zenodo.org/records/18998068) |
+🛠 Technical Overview
+Language: Python, Jupyter Notebooks, HTML/LaTeX
 
----
-*🎓 **Master Ecosystem Citation:** Djebassi, M. (2026). Unified torsional fluid dynamics ecosystem. Zenodo. DOI: [10.5281/zenodo.19508893](https://doi.org/10.5281/zenodo.19508893)*
+Status: Published research ecosystem
+
+Archiving: GitHub + Zenodo integration
+
+License: MIT / CC-BY-4.0
+
+📊 Master Ecosystem DOIs & Verification Badges
+Computational Module	Registered Digital Object Identifier (DOI)	Official Verification Link
+UOEE-KAMAR Framework	10.5281/zenodo.23120927	🔗 View on Zenodo
+Lyna-Torsion Framework	10.5281/zenodo.22118564	🔗 View on Zenodo
+The Paradoxe Framework	10.5281/zenodo.22095094	🔗 View on Zenodo
+Hidden Force Field	10.5281/zenodo.22094172	🔗 View on Zenodo
+AURA-KAMAR Pipeline	10.5281/zenodo.22086061	🔗 View on Zenodo
+Lynacore (v1.5.0)	10.5281/zenodo.20764538	🔗 View on Zenodo
+Nonlinear Hydrodynamics	10.5281/zenodo.20530151	🔗 View on Zenodo
+VacuumCode Substrate	10.5281/zenodo.19508456	🔗 View on Zenodo
+DLMC Vacuum v16.4	10.5281/zenodo.19355993	🔗 View on Zenodo
+LumenCode Solution	10.5281/zenodo.19293393	🔗 View on Zenodo
+Project G.A.I.A. Φ	10.5281/zenodo.19269184	🔗 View on Zenodo
+DLMC-Cascade v13	10.5281/zenodo.19170647	🔗 View on Zenodo
+DLMC FluxCore (v5)	10.5281/zenodo.19121325	🔗 View on Zenodo
+EDPZ v3 (Superfluid)	10.5281/zenodo.19081019	🔗 View on Zenodo
+Solar Morveu Framework	10.5281/zenodo.19080481	🔗 View on Zenodo
+MORPHEUS v1.0	10.5281/zenodo.18998068	🔗 View on Zenodo
+🎓 Master Ecosystem Citation: Djebassi, M. (2026). Unified torsional fluid dynamics ecosystem. Zenodo. DOI: 10.5281/zenodo.19508893
+
