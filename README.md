@@ -135,7 +135,8 @@ This section aggregates the multi-stage historical development of the core Torsi
 - **Abstract :** Introduces the UOEE-KAMAR framework, an enhanced computational and analytical approach designed to model and investigate galaxy rotation curves within the standard SPARC database.
 - **Associated Repository Files :** 
   * 📂 `18_Project_UOEE_KAMAR/` (Complete computational package release including manuscript, Jupyter notebook, Python script, and reproducibility archive)
-
+ 
+ 
 ## 🧠 19. DLMC v4.3 & MORPHEUS-HD: Precision Pre-IND Translation for Huntington's Disease
 - **Digital Object Identifier :** [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.23607241.svg)](https://doi.org/10.5281/zenodo.23607241)
 - **Date :** 24 Octobre 2026
