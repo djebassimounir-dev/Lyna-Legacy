@@ -134,8 +134,9 @@ This section aggregates the multi-stage historical development of the core Torsi
 * **Date :** 3 Octobre 2026
 * **Abstract :** Introduces the UOEE-KAMAR framework, an enhanced computational and analytical approach designed to model and investigate galaxy rotation curves within the standard SPARC database.
 * **Associated Repository Files :** 
-  * 📂 `18_Project_UOEE_KAMAR/` (Complete computational package release including manuscript, Jupyter notebook, Python script, and reproducibility archive)
- *🧠 19. DLMC v4.3 & MORPHEUS-HD: Precision Pre-IND Translation for Huntington's Disease
+  * 📂 `18_Project_UOEE_KAMAR/` (Complete computational package release including manuscript, Jupyter notebook, Python script, and reproducibility archive)*
+   
+  * 🧠 19. DLMC v4.3 & MORPHEUS-HD: Precision Pre-IND Translation for Huntington's Disease
 - Digital Object Identifier : https://doi.org/10.5281/zenodo.23607241
 - Date : 24 Octobre 2026
 - Abstract : Resolves the wild-type huntingtin (wtHTT) depletion dilemma via an acute stereotaxic allele-specific AAV5 vector knockdown combined with chronic oral TFEB/CLEAR autophagy maintenance, validated through a 2D spatial anisotropic reaction-diffusion engine along striatal axonal bundles.
@@ -156,6 +157,7 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 | Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
 | :--- | :--- | :--- |
+| **DLMC v4.3 & MORPHEUS-HD** |	10.5281/zenodo.23607241	|🔗 View on Zenodo
 | **UOEE-KAMAR Framework** | `10.5281/zenodo.23120927` | [🔗 View on Zenodo](https://doi.org) |
 | **Lyna-Torsion Framework** | `10.5281/zenodo.22118564` | [🔗 View on Zenodo](https://doi.org) |
 | **The Paradoxe Framework** | `10.5281/zenodo.22095094` | [🔗 View on Zenodo](https://doi.org) |
