@@ -155,7 +155,14 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 ---
 
-🛠 Technical Overview
+📐 21. Rapid Rotation and Cubic Damping in Navier-Stokes Equations (RRNS): A Fourier-Galerkin Framework and Reproducible Numerical Audit
+- Digital Object Identifier : `10.5281/zenodo.23907688`
+- Date : 3 Novembre 2026
+- Abstract : We investigate the dynamics of the three-dimensional Navier-Stokes equations under rapid rotation and strong cubic absorption damping using a high-precision Fourier-Galerkin spectral framework, establishing rigorous analytical bounds on enstrophy and energy dissipation rates.
+- Associated Repository Files :
+  - 📂 21_Project_RRNS/ (Includes Rapid_Rotation_Cubic_Damping_Galerkin_Framework.pdf, RRNS_Fourier_Galerkin_Audit.ipynb, Python script, HTML report, LaTeX source, and RRNS.zip archive)
+ 
+    🛠 Technical Overview
 - **Language:** Python, Jupyter Notebooks, HTML/LaTeX
 - **Status:** Published research ecosystem
 - **Archiving:** GitHub + Zenodo integration
@@ -167,6 +174,7 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 | Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
 | :--- | :--- | :--- |
+| **RRNS Fourier-Galerkin Framework** | `10.5281/zenodo.23907688` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23907688) |
 | **RRVF Model Framework** | `10.5281/zenodo.23903381` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23903381) |
 | **DLMC v4.3 & MORPHEUS-HD** | `10.5281/zenodo.23607241` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23607241) |
 | **UOEE-KAMAR Framework** | `10.5281/zenodo.23120927` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23120927) |
