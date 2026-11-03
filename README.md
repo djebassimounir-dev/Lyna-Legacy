@@ -146,47 +146,56 @@ This section aggregates the multi-stage historical development of the core Torsi
   
 ---
 
-## 🛠 Technical Overview
-* **Language:** Python, Jupyter Notebooks, HTML/LaTeX
-* **Status:** Published research ecosystem
-* **Archiving:** GitHub + Zenodo integration
-* **License:** MIT / CC-BY-4.0
+📐 20. The Regularized Rotational Vector Field (RRVF) Model: A Universal Amplitude Envelope and a Reproducible Numerical Audit
+- **Digital Object Identifier :** [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.23903381.svg)](https://doi.org/10.5281/zenodo.23903381)
+- **Date :** 3 Novembre 2026
+- **Abstract :** We study a three-component vector field on a one-dimensional periodic domain, governed by nonlinear advection, viscous diffusion, orthogonal rotation, and nonlinear absorption damping. Applying the maximum principle shows that the amplitude obeys an explicit universal envelope, validated by a deterministic finite-difference experiment and exact discrete energy audit.
+- **Associated Repository Files :**
+  - 📂 `20_Project_RRVF/` (Includes `RRVF_manuscript.pdf`, `RRVF_audit.ipynb`, and `RRVF.zip`)
 
 ---
 
-## 📊 Master Ecosystem DOIs & Verification Badges
+🛠 Technical Overview
+- **Language:** Python, Jupyter Notebooks, HTML/LaTeX
+- **Status:** Published research ecosystem
+- **Archiving:** GitHub + Zenodo integration
+- **License:** MIT / CC-BY-4.0
+
+---
+
+📊 Master Ecosystem DOIs & Verification Badges
 
 | Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
 | :--- | :--- | :--- |
-| **DLMC v4.3 & MORPHEUS-HD** |	10.5281/zenodo.23607241	|🔗 View on Zenodo
-| **UOEE-KAMAR Framework** | `10.5281/zenodo.23120927` | [🔗 View on Zenodo](https://doi.org) |
-| **Lyna-Torsion Framework** | `10.5281/zenodo.22118564` | [🔗 View on Zenodo](https://doi.org) |
-| **The Paradoxe Framework** | `10.5281/zenodo.22095094` | [🔗 View on Zenodo](https://doi.org) |
-| **Hidden Force Field** | `10.5281/zenodo.22094172` | [🔗 View on Zenodo](https://doi.org) |
-| **AURA-KAMAR Pipeline** | `10.5281/zenodo.22086061` | [🔗 View on Zenodo](https://doi.org) |
-| **Lynacore (v1.5.0)** | `10.5281/zenodo.20764538` | [🔗 View on Zenodo](https://doi.org) |
-| **Nonlinear Hydrodynamics** | `10.5281/zenodo.20530151` | [🔗 View on Zenodo](https://doi.org) |
-| **VacuumCode Substrate** | `10.5281/zenodo.19508456` | [🔗 View on Zenodo](https://doi.org) |
-| **DLMC Vacuum v16.4** | `10.5281/zenodo.19355993` | [🔗 View on Zenodo](https://doi.org) |
-| **LumenCode Solution** | `10.5281/zenodo.19293393` | [🔗 View on Zenodo](https://doi.org) |
-| **Project G.A.I.A. Φ** | `10.5281/zenodo.19269184` | [🔗 View on Zenodo](https://doi.org) |
-| **DLMC-Cascade v13** | `10.5281/zenodo.19170647` | [🔗 View on Zenodo](https://doi.org) |
-| **DLMC FluxCore (v5)** | `10.5281/zenodo.19121325` | [🔗 View on Zenodo](https://doi.org) |
-| **EDPZ v3 (Superfluid)** | `10.5281/zenodo.19081019` | [🔗 View on Zenodo](https://doi.org) |
-| **Solar Morveu Framework** | `10.5281/zenodo.19080481` | [🔗 View on Zenodo](https://doi.org) |
-| **MORPHEUS v1.0** | `10.5281/zenodo.18998068` | [🔗 View on Zenodo](https://doi.org) |
+| **RRVF Model Framework** | `10.5281/zenodo.23903381` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23903381) |
+| **DLMC v4.3 & MORPHEUS-HD** | `10.5281/zenodo.23607241` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23607241) |
+| **UOEE-KAMAR Framework** | `10.5281/zenodo.23120927` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23120927) |
+| **Lyna-Torsion Framework** | `10.5281/zenodo.22118564` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.22118564) |
+| **The Paradoxe Framework** | `10.5281/zenodo.22095094` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.22095094) |
+| **Hidden Force Field** | `10.5281/zenodo.22094172` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.22094172) |
+| **AURA-KAMAR Pipeline** | `10.5281/zenodo.22086061` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.22086061) |
+| **Lynacore (v1.5.0)** | `10.5281/zenodo.20764538` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.20764538) |
+| **Nonlinear Hydrodynamics** | `10.5281/zenodo.20530151` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.20530151) |
+| **VacuumCode Substrate** | `10.5281/zenodo.19508456` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.19508456) |
+| **DLMC Vacuum v16.4** | `10.5281/zenodo.19355993` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.19355993) |
+| **LumenCode Solution** | `10.5281/zenodo.19293393` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.19293393) |
+| **Project G.A.I.A. Φ** | `10.5281/zenodo.19269184` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.19269184) |
+| **DLMC-Cascade v13** | `10.5281/zenodo.19170647` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.19170647) |
+| **DLMC FluxCore (v5)** | `10.5281/zenodo.19121325` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.19121325) |
+| **EDPZ v3 (Superfluid)** | `10.5281/zenodo.19081019` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.19081019) |
+| **Solar Morveu Framework** | `10.5281/zenodo.19080481` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.19080481) |
+| **MORPHEUS v1.0** | `10.5281/zenodo.18998068` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.18998068) |
 
 ---
 
-## 🎓 Master Ecosystem Citation
+🎓 Master Ecosystem Citation
 ```bibtex
 @misc{djebassi2026unified,
   author       = {Djebassi, Mounir},
   title        = {Unified torsional fluid dynamics ecosystem},
-  month        = oct,
+  month        = nov,
   year         = 2026,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.19508893},
-  url          = {https://doi.org/10.5281/zenodo.19508893}
+  url          = {[https://doi.org/10.5281/zenodo.19508893](https://doi.org/10.5281/zenodo.19508893)}
 }
-```
