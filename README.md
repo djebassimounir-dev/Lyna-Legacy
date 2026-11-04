@@ -161,8 +161,17 @@ This section aggregates the multi-stage historical development of the core Torsi
 - Abstract : We investigate the dynamics of the three-dimensional Navier-Stokes equations under rapid rotation and strong cubic absorption damping using a high-precision Fourier-Galerkin spectral framework, establishing rigorous analytical bounds on enstrophy and energy dissipation rates.
 - Associated Repository Files :
   - 📂 21_Project_RRNS/ (Includes Rapid_Rotation_Cubic_Damping_Galerkin_Framework.pdf, RRNS_Fourier_Galerkin_Audit.ipynb, Python script, HTML report, LaTeX source, and RRNS.zip archive)
- 
-    🛠 Technical Overview
+
+ ---
+
+ 📐 22. An Exploratory Phenomenological Study of a Local Variable-Scale Propagator for Galactic Rotation Curves (Baryonic Valve)
+- Digital Object Identifier : `10.5281/zenodo.23935041`
+- Date : 4 Novembre 2026
+- Abstract : An exploratory phenomenological study investigating a non-local velocity modification model based on a variable-scale propagator applied to the 175 SPARC galaxies (Global RMSE: 38.78 km/s), with a rigorous analytical evaluation of the asymptotic BTFR limit.
+- Associated Repository Files :
+  - 📂 22_Project_Baryonic_Valve/ (Includes Baryonic Valve Exploratory Paper.pdf, Jupyter notebook, Python analysis script, HTML report, and dataset CSV results)
+
+🛠️ Technical Overview
 - **Language:** Python, Jupyter Notebooks, HTML/LaTeX
 - **Status:** Published research ecosystem
 - **Archiving:** GitHub + Zenodo integration
@@ -174,6 +183,7 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 | Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
 | :--- | :--- | :--- |
+| **Baryonic Valve Model** | `10.5281/zenodo.23935041` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23935041) |
 | **RRNS Fourier-Galerkin Framework** | `10.5281/zenodo.23907688` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23907688) |
 | **RRVF Model Framework** | `10.5281/zenodo.23903381` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23903381) |
 | **DLMC v4.3 & MORPHEUS-HD** | `10.5281/zenodo.23607241` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23607241) |
@@ -207,3 +217,4 @@ This section aggregates the multi-stage historical development of the core Torsi
   doi          = {10.5281/zenodo.19508893},
   url          = {[https://doi.org/10.5281/zenodo.19508893](https://doi.org/10.5281/zenodo.19508893)}
 }
+  
