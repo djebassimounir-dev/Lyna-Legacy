@@ -148,28 +148,30 @@ This section aggregates the multi-stage historical development of the core Torsi
 - **Associated Repository Files :** 
   * 📂 `19_DLMC v4.3 & MORPHEUS-HD Pre-IND/` (Complete Pre-IND release including master English monograph, Jupyter notebook, Python script, and clinical protocols)
 
-📐 20. The Regularized Rotational Vector Field (RRVF) Model: A Universal Amplitude Envelope and a Reproducible Numerical Audit
+## 📐 20. The Regularized Rotational Vector Field (RRVF) Model: A Universal Amplitude Envelope and a Reproducible Numerical Audit
 - **Digital Object Identifier :** [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.23903381.svg)](https://doi.org)
 - **Date :** 3 Novembre 2026
 - **Abstract :** We study a three-component vector field on a one-dimensional periodic domain, governed by nonlinear advection, viscous diffusion, orthogonal rotation, and nonlinear absorption damping. Applying the maximum principle shows that the amplitude obeys an explicit universal envelope, validated by a deterministic finite-difference experiment and exact discrete energy audit.
 - **Associated Repository Files :**
   - 📂 `20_Project_RRVF/` (Includes `RRVF_manuscript.pdf`, `RRVF_audit.ipynb`, and `RRVF.zip`)
 
-📐 21. Rapid Rotation and Cubic Damping in Navier-Stokes Equations (RRNS): A Fourier-Galerkin Framework and Reproducible Numerical Audit
+## 📐 21. Rapid Rotation and Cubic Damping in Navier-Stokes Equations (RRNS): A Fourier-Galerkin Framework and Reproducible Numerical Audit
 - **Digital Object Identifier :** `10.5281/zenodo.23907688`
 - **Date :** 3 Novembre 2026
 - **Abstract :** We investigate the dynamics of the three-dimensional Navier-Stokes equations under rapid rotation and strong cubic absorption damping using a high-precision Fourier-Galerkin spectral framework, establishing rigorous analytical bounds on enstrophy and energy dissipation rates.
 - **Associated Repository Files :**
   - 📂 `21_Project_RRNS/` (Includes `Rapid_Rotation_Cubic_Damping_Galerkin_Framework.pdf`, `RRNS_Fourier_Galerkin_Audit.ipynb`, Python script, HTML report, LaTeX source, and `RRNS.zip` archive)
 
-📐 22. An Exploratory Phenomenological Study of a Local Variable-Scale Propagator for Galactic Rotation Curves (Baryonic Valve)
+## 📐 22. An Exploratory Phenomenological Study of a Local Variable-Scale Propagator for Galactic Rotation Curves (Baryonic Valve)
 - **Digital Object Identifier :** `10.5281/zenodo.23935041`
 - **Date :** 4 Novembre 2026
 - **Abstract :** An exploratory phenomenological study investigating a non-local velocity modification model based on a variable-scale propagator applied to the 175 SPARC galaxies (Global RMSE: 38.78 km/s), with a rigorous analytical evaluation of the asymptotic BTFR limit.
 - **Associated Repository Files :**
   - 📂 `22_Project_Baryonic_Valve/` (Includes `Baryonic Valve Exploratory Paper.pdf`, Jupyter notebook, Python analysis script, HTML report, and dataset CSV results)
 
-🛠️ Technical Overview
+---
+
+## 🛠️ Technical Overview
 - **Language:** Python, Jupyter Notebooks, HTML/LaTeX
 - **Status:** Published research ecosystem
 - **Archiving:** GitHub + Zenodo integration
@@ -177,7 +179,7 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 ---
 
-📊 Master Ecosystem DOIs & Verification Badges
+## 📊 Master Ecosystem DOIs & Verification Badges
 
 | Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
 | :--- | :--- | :--- |
@@ -204,7 +206,8 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 ---
 
-🎓 Master Ecosystem Citation
+## 🎓 Master Ecosystem Citation
+
 ```bibtex
 @misc{djebassi2026unified,
   author       = {Djebassi, Mounir},
