@@ -171,6 +171,17 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 ---
 
+## 📐 23. A Frozen-Protocol Out-of-Sample Test of the DAMP Model on U.S. Manufacturing Firms (2009–2024)
+- **Digital Object Identifier :** `10.5281/zenodo.24514770`
+- **Date :** 24 Novembre 2026
+- **Abstract :** Contains the preprint, the frozen analysis protocol, the replication package, and all outputs of a frozen-protocol test of the DAMP model on U.S. manufacturing firms (SEC EDGAR and FRED data, 2009–2024), accompanied by a detectability certificate. The protocol was frozen locally on 2026-11-14 and executed once prior to deposit.
+- **Associated Repository Files :**
+  - 📄 `A Frozen-Protocol Test of the DAMP Model.pdf`
+  - 📄 `Frozen Analysis Protocol and Execution Record.pdf`
+  - 📦 `damp_replication_package.zip`
+
+---
+
 ## 🛠️ Technical Overview
 - **Language:** Python, Jupyter Notebooks, HTML/LaTeX
 - **Status:** Published research ecosystem
@@ -183,6 +194,7 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 | Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
 | :--- | :--- | :--- |
+| **DAMP Model Frozen-Protocol Test** | `10.5281/zenodo.24514770` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.24514770) |
 | **Baryonic Valve Model** | `10.5281/zenodo.23935041` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23935041) |
 | **RRNS Fourier-Galerkin Framework** | `10.5281/zenodo.23907688` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23907688) |
 | **RRVF Model Framework** | `10.5281/zenodo.23903381` | [🔗 View on Zenodo](https://doi.org/10.5281/zenodo.23903381) |
@@ -216,6 +228,5 @@ This section aggregates the multi-stage historical development of the core Torsi
   year         = 2026,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.19508893},
-  url          = {https://doi.org/10.5281/zenodo.19508893}
+  url          = {[https://doi.org/10.5281/zenodo.19508893](https://doi.org/10.5281/zenodo.19508893)}
 }
-```
